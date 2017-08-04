@@ -14,8 +14,15 @@ body {
 #animation {
   padding: 0;
   margin: 0 auto;
-  border-bottom: 2px solid green;
+  /*border-bottom: 2px solid green;*/
   width: 25em;
   height: 8em;
   font-size: 24px;
+}
+
+#grass {
+  padding: 0;
+  margin: 0 auto;
+  width: 25em;
+  color: green;
 }
