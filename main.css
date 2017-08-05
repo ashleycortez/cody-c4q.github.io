@@ -26,3 +26,9 @@ body {
   width: 25em;
   color: green;
 }
+#water {
+  padding: 0;
+  margin: 0 auto;
+  width: 25em;
+  color: blue;
+}
