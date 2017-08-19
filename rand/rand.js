@@ -4,7 +4,7 @@ var body;
 var choice;
 
 var students = [
-  "Johnathan",
+  //"Johnathan",
   "Kevin",
   "Jonathan",
   "Angel",
@@ -17,12 +17,12 @@ var students = [
   "Darriun",
   "Deborah",
   "Thomas",
-  "Charon",
+  //"Charon",
   "Julissa",
   "Kyla",
   "John",
   "Shonica",
-  "Diane",
+  //"Diane",
   "Krystal"
 ];
 
